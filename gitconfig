@@ -49,3 +49,6 @@
 [user]
 	email = pgs.charlotte@gmail.com
 	name = charlotte pages
+	name = Charlotte
+[pull]
+	rebase = true

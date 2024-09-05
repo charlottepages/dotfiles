@@ -47,7 +47,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = pgs.charlotte@gmail.com
+	email = charlotte@moka.care
 	name = charlotte pages
 	name = Charlotte
 [pull]
